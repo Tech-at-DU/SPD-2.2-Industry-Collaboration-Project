@@ -32,21 +32,21 @@ Students by the end of the course will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |   Thu, Oct 22             | [Intro to Developer Analytics & Data Driven Design](https://docs.google.com/presentation/d/1x2qZ_06VPbfXmPkeZL1T9jW_vXG1XePqM-9AZAJkzaI/edit#slide=id.p7), [Lecture Video](https://drive.google.com/file/d/1XkmVpG9dldT0pusOKscgtiSnMbGpeY8a/view?usp=sharing) |
-|  2 |   Tue, Oct 27             | [Analytics Demo](https://docs.google.com/presentation/d/1Ak32ZSVJTWNqQkyWR2dLQMwwsJp3PzA3LPXphrwghi8/edit#slide=id.g4ca8585f74_0_678), [Demo Video](https://drive.google.com/file/d/1tRcX1wg2TIuaJp4H5pVHhMmYWRtCrZ0d/view?usp=sharing) + Sprint/Retro 1 |
-|  3 |   Thu, Oct 29             |[Intro to Growth Experiments & Funnel Slides](https://docs.google.com/presentation/d/1JHNEOUTT7KgR4zLYsKOOwiJQ5Yga69HCNMawwIokJks/edit#slide=id.g654d59ae48_0_9), [Lecture Video](https://drive.google.com/file/d/1GEJu0h8fG4oRqu_N0dipbwFGY9lrGCqH/view?usp=sharing) |
-|  - |   Tue, Nov 3             | **Vote! - Civic Responsibility Break** |
-|  4 |   Thu, Nov 5             | [Using Metrics](https://docs.google.com/presentation/d/1cfklRuBVZO4mRanvngIhgG3zBddVzPBQU7Fspn_SuBo/edit#slide=id.g65c8c408a1_0_7), [Lecture Video](https://drive.google.com/file/d/1ujHZzrn-lXz8lPeNwXKBeQ2_N8xxs-tg/view?usp=sharing) |
-|  5 |   Tue, Nov 10              | [Review & Work on Analytics & Growth Assignment](https://docs.google.com/presentation/d/1hW2VnHBrGh_Uwb6MWCb5xwG9HZGST8xGwEm-rUDu1aI/edit#slide=id.g54095b0789_0_5), [Lecture Video](https://drive.google.com/file/d/18Oik728-6NO389fqEOd_HDSJfOUF32xV/view?usp=sharing) |
-|  6 |   Thu, Nov 12              | [Pitches](https://docs.google.com/presentation/d/1bth-nBtPN4ZvytZHS57pcExEWrmfFNGyD8p-xII7gn0/edit#slide=id.g4cf79cf4e3_0_202) + Sprint/Retro 2  |
-|  7 |   Tue, Nov 17             | [Collaboration Improvement](https://docs.google.com/spreadsheets/d/1g8-cq54HthouonEr3Ob_7ZlaE-IFmXqUbb42LdPsdpc/edit#gid=0) + Sprint/Retro 3 |
-|  8 |   Thu, Nov 19             | [Continuous Integration](https://docs.google.com/presentation/d/18DNt9UXHaPUufQogj-mThiKpvhkJzXprnPmQtaptUp8/edit#slide=id.p) |
-|  9 |   Tue, Nov 24             | Handoff pt 1 |
-| - |   Thu, Nov 26             | **Holiday- Thanksgiving** |
-| 10 |   Tue, Dec 1             | Prep for presentations + Sprint/Retro 4 |
-| 11 |   Thu, Dec 3             | Practice Pitches + LAB  |
-| 12 |   Tue, Dec 8              | Final Presentations  |
-| 13 |   Thu, Dec 10              | Final Presentations [Project Handoff](https://docs.google.com/presentation/d/1RAy26zRnxZ3aETBS-6K30O6rZWkt2T3iIrQJp3TuU9c/edit#slide=id.g4cf79cf4e3_0_202)|
+|  1 |   Tue, Oct 19             | [Intro to Developer Analytics & Data Driven Design](https://docs.google.com/presentation/d/1x2qZ_06VPbfXmPkeZL1T9jW_vXG1XePqM-9AZAJkzaI/edit#slide=id.p7), [Lecture Video](https://drive.google.com/file/d/1XkmVpG9dldT0pusOKscgtiSnMbGpeY8a/view?usp=sharing) |
+|  2 |   Thr, Oct 21             | Sprint/Retro 1 |
+|  3 |   Tue, Oct 26             |[Intro to Growth Experiments & Funnel Slides](https://docs.google.com/presentation/d/1aLG4CeJ0jbqrcZ-3C8F3-O6QEKNhw0XQ_Rq6b3CsVvY/edit#slide=id.p43), [Lecture Video](https://drive.google.com/file/d/1sivPVbgwlMhDdftb7vBva-sL8QqJ32_8/view?usp=sharing) |
+|  - |   Thr, Oct 28             | Sprint/Retro 2 |
+|  4 |   Tue, Nov 2             | [Using Metrics](https://docs.google.com/presentation/d/1cfklRuBVZO4mRanvngIhgG3zBddVzPBQU7Fspn_SuBo/edit#slide=id.g65c8c408a1_0_7), [Lecture Video](https://drive.google.com/file/d/1ujHZzrn-lXz8lPeNwXKBeQ2_N8xxs-tg/view?usp=sharing) |
+|  5 |   Thr, Nov 4              | [Review & Work on Analytics & Growth Assignment](https://docs.google.com/presentation/d/1hW2VnHBrGh_Uwb6MWCb5xwG9HZGST8xGwEm-rUDu1aI/edit#slide=id.g54095b0789_0_5), [Lecture Video](https://drive.google.com/file/d/18Oik728-6NO389fqEOd_HDSJfOUF32xV/view?usp=sharing) |
+|  6 |   Tue, Nov 9              | [Pitches](https://docs.google.com/presentation/d/1bth-nBtPN4ZvytZHS57pcExEWrmfFNGyD8p-xII7gn0/edit#slide=id.g4cf79cf4e3_0_202) + Sprint/Retro 2  |
+|  7 |   Thr, Nov 11             | [Collaboration Improvement](https://docs.google.com/spreadsheets/d/1g8-cq54HthouonEr3Ob_7ZlaE-IFmXqUbb42LdPsdpc/edit#gid=0) + Sprint/Retro 3 |
+|  8 |   Tue, Nov 16             | [Continuous Integration](https://docs.google.com/presentation/d/18DNt9UXHaPUufQogj-mThiKpvhkJzXprnPmQtaptUp8/edit#slide=id.p) |
+|  9 |   Thr, Nov 18             | Handoff pt 1 |
+| - |   Tue, Nov 23             |  |
+| 10 |   Thr, Nov 25             | **Holiday- Thanksgiving** |
+| 11 |   Tue, Nov 30             | Practice Pitches + LAB  |
+| 12 |   Thr, Dec 2              | Final Presentations  |
+| 13 |   Tue, Dec 10              | Final Presentations [Project Handoff](https://docs.google.com/presentation/d/1RAy26zRnxZ3aETBS-6K30O6rZWkt2T3iIrQJp3TuU9c/edit#slide=id.g4cf79cf4e3_0_202)|
 
 
 [Intro to Developer Analytics & Data Driven Design]: (https://docs.google.com/presentation/d/1zJ_KJYrtzIplyWfSkj8tFXG5x9VH88QJrsn6NNc4kNQ/edit?usp=sharing)
