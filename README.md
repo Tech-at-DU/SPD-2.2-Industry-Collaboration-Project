@@ -36,7 +36,7 @@ Students by the end of the course will be able to ...
 |  2 |   Thr, Oct 21             | Sprint/Retro 1 |
 |  3 |   Tue, Oct 26             |[Intro to Growth Experiments & Funnel Slides](https://docs.google.com/presentation/d/1aLG4CeJ0jbqrcZ-3C8F3-O6QEKNhw0XQ_Rq6b3CsVvY/edit#slide=id.p43), [Lecture Video](https://drive.google.com/file/d/1sivPVbgwlMhDdftb7vBva-sL8QqJ32_8/view?usp=sharing) |
 |  - |   Thr, Oct 28             | Sprint/Retro 2 |
-|  4 |   Tue, Nov 2             | [Using Metrics](https://docs.google.com/presentation/d/1cfklRuBVZO4mRanvngIhgG3zBddVzPBQU7Fspn_SuBo/edit#slide=id.g65c8c408a1_0_7), [Lecture Video](https://drive.google.com/file/d/1ujHZzrn-lXz8lPeNwXKBeQ2_N8xxs-tg/view?usp=sharing) |
+|  4 |   Tue, Nov 2             | [Using Metrics](https://docs.google.com/presentation/d/11FMDB2G7zzSjeVUbfWG-GhRGjwEE1tC6NDwUROUtC68/edit#slide=id.p25), [Lecture Video](https://drive.google.com/file/d/1ujHZzrn-lXz8lPeNwXKBeQ2_N8xxs-tg/view?usp=sharing) |
 |  5 |   Thr, Nov 4              | [Review & Work on Analytics & Growth Assignment](https://docs.google.com/presentation/d/1hW2VnHBrGh_Uwb6MWCb5xwG9HZGST8xGwEm-rUDu1aI/edit#slide=id.g54095b0789_0_5), [Lecture Video](https://drive.google.com/file/d/18Oik728-6NO389fqEOd_HDSJfOUF32xV/view?usp=sharing) |
 |  6 |   Tue, Nov 9              | [Pitches](https://docs.google.com/presentation/d/1bth-nBtPN4ZvytZHS57pcExEWrmfFNGyD8p-xII7gn0/edit#slide=id.g4cf79cf4e3_0_202) + Sprint/Retro 2  |
 |  7 |   Thr, Nov 11             | [Collaboration Improvement](https://docs.google.com/spreadsheets/d/1g8-cq54HthouonEr3Ob_7ZlaE-IFmXqUbb42LdPsdpc/edit#gid=0) + Sprint/Retro 3 |
