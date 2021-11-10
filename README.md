@@ -38,7 +38,7 @@ Students by the end of the course will be able to ...
 |  - |   Thr, Oct 28             | Sprint/Retro 2 |
 |  4 |   Tue, Nov 2             | [Using Metrics](https://docs.google.com/presentation/d/1OCeBkAm8cTaOy0wB5ZqGdbfyMcTMyykc-FRQG4jKOTM/edit#slide=id.p1), [Lecture Video](https://drive.google.com/file/d/1LIyRt8-05XOcc8tW4MpwG8uSJcxvFD0B/view?usp=sharing) |
 |  5 |   Thr, Nov 4              | [Review & Work on Analytics & Growth Assignment](https://docs.google.com/presentation/d/1hW2VnHBrGh_Uwb6MWCb5xwG9HZGST8xGwEm-rUDu1aI/edit#slide=id.g54095b0789_0_5), [Lecture Video](https://drive.google.com/file/d/18Oik728-6NO389fqEOd_HDSJfOUF32xV/view?usp=sharing) |
-|  6 |   Tue, Nov 9              | [Pitches](https://docs.google.com/presentation/d/1bth-nBtPN4ZvytZHS57pcExEWrmfFNGyD8p-xII7gn0/edit#slide=id.g4cf79cf4e3_0_202) + Sprint/Retro 2  |
+|  6 |   Tue, Nov 9              | [Pitches](https://docs.google.com/presentation/d/1VEhoVotYbZiJRw8vad_IYFUpTjapl4NjuynHl7WHTaw/edit#slide=id.p32) + Sprint/Retro 2  |
 |  7 |   Thr, Nov 11             | [Collaboration Improvement](https://docs.google.com/spreadsheets/d/1g8-cq54HthouonEr3Ob_7ZlaE-IFmXqUbb42LdPsdpc/edit#gid=0) + Sprint/Retro 3 |
 |  8 |   Tue, Nov 16             | [Continuous Integration](https://docs.google.com/presentation/d/18DNt9UXHaPUufQogj-mThiKpvhkJzXprnPmQtaptUp8/edit#slide=id.p) |
 |  9 |   Thr, Nov 18             | Handoff pt 1 |
